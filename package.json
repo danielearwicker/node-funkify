@@ -1,0 +1,22 @@
+{
+  "name": "funkify",
+  "version": "0.1.0",
+  "description": "Simple application of thunkify to all function properties of objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielearwicker/node-funkify.git"
+  },
+  "keywords": [
+    "co"
+  ],
+  "author": "Daniel Earwicker <dan@earwicker.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielearwicker/node-funkify/issues"
+  },
+  "homepage": "https://github.com/danielearwicker/node-funkify"
+}
